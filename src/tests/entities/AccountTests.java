@@ -1,0 +1,9 @@
+package tests.entities;
+
+public class AccountTests {
+
+
+    public void depositShouldIncreaseBalanceWhenPositiveAmount(){
+
+    }
+}
